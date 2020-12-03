@@ -22,6 +22,7 @@
 [<img align="left" alt="TGCFabian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="TGCFabian | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
