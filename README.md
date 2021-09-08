@@ -6,9 +6,9 @@
 
 ## I'm a Streamer, Gamer, Developer, and VR Addict!!
 
-- 🌱 I’m currently trying to learn/understand more languages 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Grow my community and have a fun space for everyone
+- 🌱 I’m currently trying to learn/understand more coding languages 🤣 (Currently only doing NodeJS/Python)
+- 👯 I’m looking to collaborate with other content creators within the VR Industry
+- 🥅 Goals: Grow my community and have a fun space for everyone
 - ⚡ Fun fact: I am so addicted to VR, i play every single day :O
 
 ### Connect with me:
@@ -28,7 +28,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="TGCFabian's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TGCFabian&show_icons=true&hide_border=true" />
+  <img align="left" alt="TGCFabian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TGCFabian&show_icons=true&hide_border=true" />
 
 </details>
 
